@@ -1,0 +1,11 @@
+body{
+    height: 100vh;
+    margin: 0;
+}
+.intro-container{
+    height: 100vh;
+    display: flex;
+    background-color: gray;
+    justify-content: space-around;
+    align-items: center;
+}
