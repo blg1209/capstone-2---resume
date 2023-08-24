@@ -6,8 +6,11 @@ body{
     height: 100vh;
     display: flex;
     background-color: #FFF5E0;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
+}
+.intro-image-container{
+    padding-right: 100px;
 }
 .intro-right{
     max-height: 50em;
