@@ -1,11 +1,12 @@
 body{
     height: 100vh;
     margin: 0;
+    background-color: black;
 }
 .intro-container{
     height: 80vh;
     display: flex;
-    background-color: #FF6969;
+    background-color: #FAF1E4;
     justify-content: center;
     align-items: center;
 }
@@ -32,7 +33,7 @@ img{
 .resume-container{
     height: 80vh;
     display: flex;
-    background-color: white;
+    background-color: #9EB384;
     justify-content: space-evenly;
     align-items: center;
 
@@ -63,5 +64,7 @@ display: flex;
 align-items: center;
 justify-content: space-evenly;
 width: 50%;
-
+}
+.projects{
+    background-color: #CEDEBD;
 }
